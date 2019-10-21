@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StudentRecord
+comment1.params=s
+comment1.target=StudentRecord(int[])
+comment2.params=first\ last
+comment2.target=double\ average(int,\ int)
+comment2.text=\ returns\ the\ average\ (arithmetic\ mean)\ of\ the\ values\ in\ scores\r\n\ \ whose\ subscripts\ are\ between\ first\ and\ last,\ inclusive\r\n\ \ PRECONDITION\:\ 0\ <\=\ first\ <\=\ last\ <\ scores.length\r\n
+comment3.params=
+comment3.target=boolean\ hasImproved()
+comment3.text=\ returns\ true\ if\ each\ successive\ value\ in\ scores\ is\ greater\ than\r\n\ \ or\ equal\ to\ the\ previous\ value;\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=double\ finalAverage()
+comment4.text=\ if\ the\ values\ in\ scores\ have\ imrpoved,\ returns\ the\ average\ of\r\n\ \ the\ elements\ in\ scores\ with\ indexes\ greater\ than\ or\ equal\ to\ \r\n\ \ scores.length/2;\ otherwise,\ returns\ the\ average\ of\ all\ the\ \r\n\ \ values\ in\ scores\r\n
+numComments=5
